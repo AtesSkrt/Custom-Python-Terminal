@@ -32,8 +32,6 @@ Here are some glimpses of the **Custom Terminal**:
 ![Screenshot 8](screenshots/Screenshot%202025-01-12%20at%2017.04.16.png)
 
 
-## Installation
-
 ## Run the terminal:
 
 python Terminal.py
@@ -41,6 +39,10 @@ python Terminal.py
 ## How to Use
 
 Run commands: Simply type a command and hit Enter.
+
+See Command History: Click command history
+
+Export log: click Export Logs
 
 Select theme: click themes.
 
